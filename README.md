@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋 I'm Shashank Kumar
 
-<!--
-**shashank-mishra08/shashank-mishra08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 iOS Developer (SwiftUI) & Backend Engineer  
+💻 Firebase | Cloud Functions | REST APIs | Node.js | MongoDB  
+📱 Building production-ready full-stack applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Technical Skills
+
+### 📱 iOS
+- Swift
+- SwiftUI
+- MVVM Architecture
+- REST API Integration
+- Firebase Auth & Firestore
+
+### 🔥 Backend
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+- RESTful API Design
+- Clean Architecture
+
+### ☁️ Cloud & Tools
+- Firebase (Auth, Firestore, Functions)
+- Google Cloud
+- Git & GitHub
+- Postman
+- Docker (Basics)
+
+---
+
+## 🛠 Featured Projects
+
+### 🪑 Seat Planner
+TypeScript-based structured seat allocation system.
+
+### 🏥 CureME
+Doctor-patient connection platform using backend APIs.
+
+### 🛒 shopIt
+Full-stack e-commerce platform.
+
+---
+
+## 📫 Let's Connect
+- LinkedIn: (add link)
+- Email: shashankmishra00026@gmail.com
