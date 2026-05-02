@@ -46,5 +46,5 @@ Full-stack e-commerce platform.
 ---
 
 ## 📫 Let's Connect
-- LinkedIn: (add link)
+- LinkedIn: 
 - Email: shashankmishra00026@gmail.com
